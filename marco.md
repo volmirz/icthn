@@ -1,3 +1,3 @@
 chili pannr
-tomoto chipz
+tomoto/potato chipz
 pannr65
